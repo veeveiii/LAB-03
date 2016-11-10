@@ -3,7 +3,7 @@
 
 ![](https://scontent.fbkk2-3.fna.fbcdn.net/v/t34.0-12/14997070_1132944693492447_874976759_n.png?oh=b6292fc5a3aa0c5014ddeecacafbf3b5&oe=5827A026)
 
-จากผลการทดลอง Error ค่ะ 
+จากผลการทดลอง Error ดังรูปค่ะ 
 
 
 ##วัตถุประสงค์
